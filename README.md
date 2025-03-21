@@ -10,27 +10,27 @@
 
 [Java并发](./doc/concurrent.md)
 
-[JVM](./doc/jvm.md)（待续）
+[JVM](./doc/jvm.md)
 
-[MySQL](./doc/mysql.md)（待续）
+[MySQL](./doc/mysql.md)
 
 [Spring基础](./doc/spring.md)
 
 [SpringCloud基础](./doc/springCloud.md)（待续）
 
-[Nginx](./doc/nginx.md)（待续）
+[Nginx](./doc/nginx.md)
 
 [Redis](./doc/redis.md)
 
-[RabbitMQ](./doc/rabbitMq.md)（待续）
+[RabbitMQ](./doc/rabbitMq.md)
 
 [Kafka](./doc/kafka.md)（待续）
 
-[操作系统](./doc/OS.md)（待续）
+[操作系统](./doc/OS.md)
 
 [计算机网络](./doc/CN.md)（待续）
 
-[设计模式](./doc/DM.md)（待续）
+[设计模式](./doc/design-pattern.md)
 
 
 ## FBI WARNING
